@@ -1,2 +1,2 @@
-Link Github : 
-Link Deploy : 
+Link Github : https://github.com/nurfadilahzulfi/BIKE-SHARING-DASHBOARD-ANALYSIS
+Link Deploy : https://bike-sharing-dashboard-analysis-hjbjvfxksckzwv2oyr8vmb.streamlit.app/
